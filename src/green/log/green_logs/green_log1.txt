@@ -1,0 +1,114 @@
+[2020-07-18 00:08:15.64059] Case 3 < OA > Error in my data load
+[2020-07-18 00:08:15.64183] Case 2 < OA > Receive from orange my data
+[2020-07-18 00:08:15.64421] Case 2 < OA > Receive from orange neighbour data
+[2020-07-18 00:08:15.130619] Case 0 < TL > Threads are ready
+[2020-07-18 00:08:15.131204] Case 0 < TL > socketfd TCP was created successfully
+[2020-07-18 00:08:19.428266] Case 0 < LL > Dispatching packet to RoseAgent
+[2020-07-18 00:08:19.428685] Case 2 < RA > < HB > Sends message protocol heartbeat
+[2020-07-18 00:08:19.428793] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:19.435214] Case 0 < LL > Dispatching packet to RoseAgent
+[2020-07-18 00:08:19.435435] Case 2 < RA > < AG > Sends message protocol spanning tree
+[2020-07-18 00:08:19.435504] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:19.442155] Case 0 < LL > Dispatching packet to RoseAgent
+[2020-07-18 00:08:19.442532] Case 2 < RA > < BC > Sends message protocol broadcast update
+[2020-07-18 00:08:19.442615] Case 1 < NL > < BC > bc_table got updated.
+[2020-07-18 00:08:19.442692] Case 2 < RA > < BC > Sends message protocol broadcast
+[2020-07-18 00:08:19.442749] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:19.442806] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:23.451239] Case 0 < LL > Dispatching packet to Broadcast
+[2020-07-18 00:08:23.451317] Case 1 < NL > < BC > adjacencies msg sent to RA. Origen < 2 >
+[2020-07-18 00:08:23.451336] Case 1 < NL > < BC > adjacencies msg sent to RA. Origen < 2 >
+[2020-07-18 00:08:23.451788] Case 2 < RA > < Fw > Sends message forward update
+[2020-07-18 00:08:23.451814] Case 2 < RA > < BC > Sends message protocol broadcast
+[2020-07-18 00:08:23.451846] Case 1 < NL> < FW > fw table got updated.
+[2020-07-18 00:08:23.451875] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:23.451962] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:39.331202] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:39.331871] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:39.331996] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:39.347204] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:39.348213] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:39.348297] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:39.357993] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:39.358529] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:39.358617] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:39.365433] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:39.366101] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:39.366232] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:39.372837] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.381869] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.382267] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.382375] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:40.389920] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.390416] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.390519] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:40.401932] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.402735] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.402811] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:40.410316] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.411018] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.411119] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:40.418602] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.419171] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.419297] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:40.426613] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:40.427216] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:40.427349] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:41.450270] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:41.450780] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:41.450868] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:41.461863] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:41.462737] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:41.462832] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:41.475375] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:41.475936] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:41.476013] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:41.491362] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:41.491962] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:41.492058] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:42.504036] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:42.504757] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:42.504898] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:42.512737] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:42.513463] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:42.513547] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:42.520508] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:42.521010] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:42.521103] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:42.527360] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:43.532750] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:43.533151] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:43.533244] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:43.539470] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:44.545044] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:44.545508] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:44.545602] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:44.551734] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:44.552216] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:44.552295] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:44.558742] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:44.560781] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:44.560932] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:44.567266] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:44.567869] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:44.567966] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:44.649571] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:44.651082] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:44.651789] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:44.652172] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:44.652504] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:44.652834] Case 2 < RA > < SM > Sends spider message to stat manager
+[2020-07-18 00:08:45.154518] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:45.154643] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:45.176321] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:45.177881] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:45.177960] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:45.184519] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:45.185166] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:45.185282] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:45.191801] Case 0 < LL > Dispatching packet to NetLayer
+[2020-07-18 00:08:45.192540] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:45.192645] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:45.693034] Case 1 < NL > < BC > msg broadcasted. OriginNb( 1 )
+[2020-07-18 00:08:45.693164] Case 1 < LL > Message sent succesfully
+[2020-07-18 00:08:45.702089] Case 0 < LL > Dispatching packet to NetLayer
